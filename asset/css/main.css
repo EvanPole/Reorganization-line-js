@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    display: flex;
+    width: 100%;
+}
+
+.order-cont {
+    margin: 0 auto;
+    background: black;
+}
+
+.bigline {
+    margin: 2px;
+    display: inline-block;
+    width: 4px;
+}
